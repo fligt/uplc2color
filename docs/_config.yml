@@ -2,7 +2,7 @@ repository: fligt/uplc2color
 output: web
 topnav_title: uplc2color
 site_title: uplc2color
-company_name: Ligterink
+company_name: Frank Ligterink | Rijkserfgoedlaboratorium 
 description: Python package to convert chromatography absorbance data into color
 # Set to false to disable KaTeX math
 use_math: true
